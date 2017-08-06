@@ -1,0 +1,16 @@
+{
+	"profiles": {
+		"BakaXL": {
+			"name": "BakaXL"
+		},
+		"Forge": {
+			"name": "Forge",
+			"lastVersionId": "1.7.10-Forge10.13.4.1614-1.7.10"
+		},
+		"(Default)": {
+			"name": "(BakaXL)"
+		}
+	},
+	"selectedProfile": "(Default)",
+	"clientToken": "88888888-8888-8888-8888-888888888888"
+}
